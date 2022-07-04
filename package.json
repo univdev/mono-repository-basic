@@ -1,0 +1,12 @@
+{
+  "name": "mono-repository-basic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/univdev/mono-repository-basic",
+  "author": "univdev <chanyoung@pixo.co>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^5.1.6",
+    "nx": "^14.4.0"
+  }
+}
